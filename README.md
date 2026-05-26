@@ -1,3 +1,11 @@
+# AI Agent App - Powered by Mimo v2.5 Pro
+
+## Dashboard Preview
+
+![Dashboard](screenshot.png)
+
+---
+
 # AI Task Planner 🚀
 
 A beautiful, AI-powered task planning application built with Next.js 14, TypeScript, and Tailwind CSS. Break down your goals into actionable tasks using Mimo v2.5 Pro AI.
